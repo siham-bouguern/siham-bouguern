@@ -7,17 +7,16 @@ I am a Data Analyst / Industrial Manufacturing Engineer. I'm a driven and curiou
 ### Find me around the web :earth_africa::
 ***
 * [Linkedin](https://www.linkedin.com/in/sihambouguern/)
-* [Data Science Portfilio](https://www.datascienceportfol.io/sihambouguern)
+* [Data Science Projects](https://www.datascienceportfol.io/sihambouguern)
 * [Medium](https://medium.com/@sihambouguern)
 * [Kaggle](https://www.kaggle.com/sihambouguern)
+* [Portfolio](https://sihambouguern.wixsite.com/portfolio)
+
+
+
 <!-- display the social media buttons in your README -->
-
-
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-
-
 <!-- To Link your profile to the media buttons -->
-
 [2]: https://www.instagram.com/si.lens96
 [3]: https://twitter.com/sihambouguern
