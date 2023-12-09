@@ -11,6 +11,7 @@ I am a Data Analyst / Industrial Manufacturing Engineer. I'm a driven and curiou
 * [Medium](https://medium.com/@sihambouguern)
 * [Kaggle](https://www.kaggle.com/sihambouguern)
 * [Portfolio](https://sihambouguern.wixsite.com/portfolio)
+* [Academic Research](https://www.researchgate.net/profile/Siham-Bouguern)
 
 
 
