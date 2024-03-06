@@ -1,6 +1,7 @@
 ### Salem! I'm Siham 👋
 ***
-![Siham Bouguern (1)](https://github.com/siham-bouguern/siham-bouguern/assets/140173145/8330fd62-f4af-492f-bceb-3976a349399e)
+![Siham Bouguern_LinkedIn cover copy](https://github.com/siham-bouguern/siham-bouguern/assets/140173145/ee72fbd6-31cc-4155-bdf6-6852897ef2ba)
+
 
 
 I am a Data Analyst / Industrial Manufacturing Engineer. I'm a driven and curious data analyst with experience working with Python, SQL, tableau and others. With a passion for creative innovation and solving complex problems, I am eager to implement my skills further and improve my data analysis experience. Additionally, I have a strong foundation in industrial manufacturing engineering, and I am an experienced marketing associate with three years of experience (since 2020).
